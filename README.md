@@ -1,9 +1,9 @@
 # MuleSoft
 Its a window page which shows your favourite movies.
 Database used in this MySql and programming language is java.
-.
-.
-.
+
+
+
 To run this java code:
 1. Clone the repository
 2. Import libraries from src/iamge
