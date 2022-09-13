@@ -8,7 +8,7 @@ To run this java code:
 1. Clone the repository
 2. Import libraries from src/iamge
 3. import database in MySql
-4. run
+4. run this
 
 ScreenShots
 
